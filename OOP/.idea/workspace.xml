@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d8e7670-0d26-4ec5-b555-ada3d4b183c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e2ZrDnnKqBYo9wdY84IPvjSXHH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\PycharmProjects\OOP\polymorphism\wild_farm_4\project\animals" />
+      <recent name="C:\Users\Acer\PycharmProjects\OOP\Inheritance\mix_it_6\project" />
+      <recent name="C:\Users\Acer\PycharmProjects\OOP\Inheritance\zoo_2\project" />
+      <recent name="C:\Users\Acer\PycharmProjects\OOP\attributes_and_methods" />
+      <recent name="C:\Users\Acer\PycharmProjects\OOP" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_player_repository.TestPlayerRepository">
+    <configuration name="Unittests for test_card_repository.TestCardRepository.test_find_card" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_card_repository.TestCardRepository.test_find_card&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_player_repository.TestPlayerRepository" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_player_repository.TestPlayerRepository&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_player_repository.TestPlayerRepository.test_add_player" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_player_repository.TestPlayerRepository.test_add_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_player_repository.TestPlayerRepository.test_find_player" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_player_repository.TestPlayerRepository.test_find_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_player_repository.TestPlayerRepository.test_remove_player" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exam_preparation/skeleton/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_player_repository.TestPlayerRepository.test_remove_player&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_player_repository.TestPlayerRepository" />
+        <item itemvalue="Python tests.Unittests for test_player_repository.TestPlayerRepository.test_remove_player" />
+        <item itemvalue="Python tests.Unittests for test_player_repository.TestPlayerRepository.test_find_player" />
+        <item itemvalue="Python tests.Unittests for test_player_repository.TestPlayerRepository.test_add_player" />
+        <item itemvalue="Python tests.Unittests for test_card_repository.TestCardRepository.test_find_card" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d8e7670-0d26-4ec5-b555-ada3d4b183c3" name="Default Changelist" comment="" />
+      <created>1593521844902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593521844902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="115" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596059600913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="115" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1596059600913" />
+    <state width="1515" height="269" key="GridCell.Tab.0.bottom" timestamp="1597147713091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597147713091" />
+    <state width="1515" height="269" key="GridCell.Tab.0.center" timestamp="1597147713091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597147713091" />
+    <state width="1515" height="269" key="GridCell.Tab.0.left" timestamp="1597147713091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597147713091" />
+    <state width="1515" height="269" key="GridCell.Tab.0.right" timestamp="1597147713091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597147713091" />
+    <state width="1515" height="298" key="GridCell.Tab.1.bottom" timestamp="1597147032867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="298" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597147032867" />
+    <state width="1515" height="298" key="GridCell.Tab.1.center" timestamp="1597147032867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="298" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1597147032867" />
+    <state width="1515" height="298" key="GridCell.Tab.1.left" timestamp="1597147032867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="298" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1597147032867" />
+    <state width="1515" height="298" key="GridCell.Tab.1.right" timestamp="1597147032867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="298" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1597147032867" />
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1596998039123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1596998039123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Defining_Classes/3_hero.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Defining_Classes/guild_system_7/project/player.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Defining_Classes/todo_list_9/project/section.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes_and_instances/5_time.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes_and_instances/6_pizza_delivery.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes_and_instances/library_7/project/library.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/classes_and_instances/library_7/project/user.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/attributes_and_methods/movie_world_2/project/movie_world.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/attributes_and_methods/movie_world_2/project/movie_world.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/attributes_and_methods/document_management_3/project/storage.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/attributes_and_methods/document_management_3/project/storage.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Inheritance/need_for_speed_4/project/race_motorcycle.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism/account_3.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism/account_3.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/polymorphism/groups_2.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators/sequence_repeat_4.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators/take_halves_5.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators/fibonacci_generator_6.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/iterators_and_generators/reader_7.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decorators/even_parameters_2.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decorators/bold_italic_underline_3.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/decorators/cache_5.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
